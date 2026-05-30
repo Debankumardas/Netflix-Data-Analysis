@@ -1,5 +1,3 @@
-## 📓 Netflix Data Analysis
-
 [![NBViewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/Debankumardas/Netflix-Data-Analysis/blob/main/Netflix%20Data%20Analysis/Movie%20data%20analysis.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Debankumardas/Netflix-Data-Analysis/blob/main/Netflix%20Data%20Analysis/Movie%20data%20analysis.ipynb)
 
